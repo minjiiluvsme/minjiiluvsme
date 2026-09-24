@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-A Computer Engineering graduate, who loves try new things.  
+A Computer Engineering graduate that loves to try new things.  
 All the repos/codes in this profile are all of my academic projects/activities.
 
 🔭 &nbsp;I'm currently working on **Machine Learning**  
@@ -44,7 +44,7 @@ All the repos/codes in this profile are all of my academic projects/activities.
 
 <p align="left">
   <a href="https://www.lomography.com/homes/rainier"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/minjiiluvsme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/minjiiluvsme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rainierrubio10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -69,4 +69,3 @@ All the repos/codes in this profile are all of my academic projects/activities.
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/minjiiluvsme">minjiiluvsme</a></i></p>
-
