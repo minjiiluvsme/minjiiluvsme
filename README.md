@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-A Computer Engineering graduate that loves to try new things.  
+A Computer Engineering graduate who loves to try new things.  
 All the repos/codes in this profile are all of my academic projects/activities.
 
 🔭 &nbsp;I'm currently working on **Machine Learning**  
